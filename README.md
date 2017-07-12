@@ -2,12 +2,12 @@
 
 ## 程序是如何运行的
 
-1. [前言](/)
-1. [什么是编程语言](/)
-1. [什么是操作系统](/)
-1. [内存管理](/)
-1. [编译型语言和解释型语言](/)
-1. [各种编程语言介绍](/)
+1. [前言](/1_preface.md)
+1. [什么是编程语言](/2_what_is_programming_language.md)
+1. [什么是操作系统](/3_what_is_operating_system.md)
+1. [内存管理](/4_memory_management.md)
+1. [编译型语言和解释型语言](/5_compiler_language_and_interpreted_language.md)
+1. [各种编程语言介绍](/6_various_programming_languages.md)
 
 ## 编程语言的设计
 
